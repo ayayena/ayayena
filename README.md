@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**ayayena/ayayena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy trabajando en SSDR ...
 - 🌱 Actulamente estoy aprendiendo R para ciencia de datos ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 Escribeme en linked in ...
 - 😄 mi chica: ...
 - ⚡ 
--->
+
