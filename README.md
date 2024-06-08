@@ -1,7 +1,7 @@
-## Hola soy Carola!
+# Hola soy Carola!
+Soy ingeniero en computación,especializada en desarrollo de aplicaciones web Full-Stack.
 
-
-
+## Mas Sobre mi
 - 🔭 Actualmente estoy trabajando en SSDR ...
 - 🌱 Actulamente estoy aprendiendo R para ciencia de datos ...
 - 👯 Estoy buscando colaborar en Desarollo Full-Stack...
